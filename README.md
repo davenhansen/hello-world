@@ -1,3 +1,3 @@
 # hello-world
-Learning About GitHub
-A bit about myself!
+Learning About GitHub.
+This is a bit about myself!
